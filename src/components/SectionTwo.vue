@@ -10,7 +10,7 @@
       <div class="middle">
           <div class="left">
               <h3 class="titleMAIN">INVEST IN<span class="GoldTitle"> GOLD</span>, INVEST IN <span class="GoldTitle">YOU</span> </h3>
-             heroku logs --tail <p class="text1">What’s stopping you from trading gold?<br>
+            <p class="text1">What’s stopping you from trading gold?<br>
                   Perhaps lack of knowledge and experience?<br>
                   If so, our educational package is exactly what<br>
                   you've been searching for. Including an A-Z<br>
@@ -128,6 +128,7 @@ export default {
 .titleMAIN{
     font-size: 1.9rem;
     font-weight: bolder;
+    
 }
 .GoldTitle{
 color: gold;
@@ -136,7 +137,7 @@ color: gold;
     font-weight: 600;
       letter-spacing: 1px;
       font-family: 'Mukta', sans-serif;
-      margin-bottom: 30px;
+      margin: 30px;
       
 }
 .text2{

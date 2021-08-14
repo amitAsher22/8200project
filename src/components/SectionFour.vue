@@ -6,7 +6,7 @@
           <h2 class="titleLeft">Invest In GOLD, Invest In YOU</h2>
           <input class="input" type="text" placeholder="Full Name"/>
           <input class="input" type="email" placeholder="Email"/>
-          <input class="input" type="number" placeholder="Israel(+972)"/>
+          <input class="input" type="text" placeholder="Israel(+972)"/>
           <input class="input" type="number" placeholder="Phone Number"/><br>
           <span class="colorText"><input type="checkbox"/> I agree to the<span class="colorLeft"> Terms and Conditions</span> and <span class="colorLeft" > <br>privet Policy </span></span>
           <div><button class="buttonMiddle1">START NOW!</button></div>
@@ -72,6 +72,9 @@ export default {
   padding:8px;
   border-radius: 4px;
   font-weight: 100;
-  border-color: rgb(252, 246, 246);
+  border-color: rgb(162, 163, 162);
+  outline: none;
+   border-style:solid;
+border-width:small;
 }
 </style>

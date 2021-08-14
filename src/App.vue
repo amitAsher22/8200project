@@ -2,18 +2,18 @@
 <div>
   <div class="middleText">
     <h1 class="textLeftTitle">GROW YOUR PROFITS WITH <span class="gold">GOLD</span></h1>
-   <h1  class="textLeftTitle"> INVEST IN THE <span class="gold">WORLD'S</span> MOST PRECIOUS METAL</h1>
+   <h1  class="textLeftTitle2"> INVEST IN THE <span class="gold">WORLD'S</span> MOST PRECIOUS METAL</h1>
    <div class="section1">
    <div class="right"></div>
    <div class="left">
      <div class="foremLeft">
-       <p class="titleLeft">start investing in the precious metal</p>
+       <p class="titleLeft">Start Investing In the Precious Metal</p>
        <div class="inputMain">
-       <input class="inputLeft" placeholder="Full name"/>
+       <input class="inputLeft" placeholder="Full Name"/>
        <input class="inputLeft" placeholder="Email"/>
        <input class="inputLeft" placeholder="Israel(+972)"/>
        <input class="inputLeft" placeholder="Phone Number"/>
-       <span class="colorText"><input type="checkbox"/> I agree to the<span class="colorLeft"> Terms and Conditions</span> and <span class="colorLeft" > <br>privet Policy </span></span>
+       <label class="colorText"><input type="checkbox" /> I agree to the<span class="colorLeft"> Terms and Conditions</span> and <label class="colorLeft"><br>privet Policy </label></label>
          </div>
        <button class="buttonLeft">START NOW!</button>
      </div>
@@ -50,6 +50,7 @@ export default {
 *{
   padding: 0;
   margin: 0;
+  font-family: "bello-pro-1", "bello-pro-2", sans-serif;
 }
 .gold{
   color: gold;
@@ -120,7 +121,10 @@ justify-content: space-around;
   padding:8px;
   border-radius: 4px;
   font-weight: 100;
-  border-color: rgb(252, 246, 246);
+   border-color: rgb(162, 163, 162);
+  outline: none;
+   border-style:solid;
+border-width:small;
   
 
 }
@@ -128,14 +132,20 @@ justify-content: space-around;
   font-size:0.7em;
   color: black;
   font-weight: 200;
+
 }
+
+
+
+
+
 .colorLeft{
   color: rgb(81, 179, 245);
 }
 .buttonLeft{
   padding: 10px 40px;
   margin: 30px 20px;
-  background-color: rgb(62, 62, 236);
+  background-color: #3B5BEC;
   color: white;
   width: 80%;
   border-radius: 10px;
@@ -163,5 +173,9 @@ justify-content: space-around;
 }
 .textLeftTitle{
   font-size: 1.4em;
+  margin-top:35px
+}
+.textLeftTitle2{
+   font-size: 1.4em;
 }
 </style>
