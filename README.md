@@ -38,6 +38,6 @@
 ```
 > npm run lint
 ```
-
+![‏‏צילום מסך (24)](https://user-images.githubusercontent.com/69055006/129731235-ff61f8af-456f-497a-b98b-a01560bc5b3e.png)
 ![‏‏צילום מסך (25)](https://user-images.githubusercontent.com/69055006/129731119-a5f8a1eb-5acd-4ae6-82d3-035b8e43f870.png)
 ![‏‏צילום מסך (26)](https://user-images.githubusercontent.com/69055006/129730899-729a5306-7192-40ad-82d5-ffce8cbbc55a.png)
