@@ -39,4 +39,4 @@
 > npm run lint
 ```
 
-![add member](https://user-images.githubusercontent.com/69055006/128395195-0ab4c18c-a775-4162-a029-18343b366668.png)
+![‏‏צילום מסך (26)](https://user-images.githubusercontent.com/69055006/129730899-729a5306-7192-40ad-82d5-ffce8cbbc55a.png)
